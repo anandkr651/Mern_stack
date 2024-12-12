@@ -1,0 +1,6 @@
+date = 26/08/2024
+
+Q. how we can run this program ??
+first we can run the backend folder "PS D:\Mern Stack\01basic\backend>npm run start
+secons we can run the frontend folder "PS D:\Mern Stack\01basic\frontend>npm run dev"
+both are run then the program will be execute.otherwise proxy error comes.
